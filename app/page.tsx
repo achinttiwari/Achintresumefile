@@ -1,0 +1,1 @@
+import ScrollSequence from "@/components/ScrollSequence";
